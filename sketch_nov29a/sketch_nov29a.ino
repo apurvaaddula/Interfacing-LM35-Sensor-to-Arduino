@@ -1,3 +1,5 @@
+//Name : A. Apurva
+
 int ledState = LOW; //Initiliazing a variable ledState to LOW
 
 //Using counter variables to be used for obtaining delay instead of using functions like delay, millis, etc.
